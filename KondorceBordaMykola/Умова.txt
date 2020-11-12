@@ -1,0 +1,5 @@
+﻿23	ABC
+33	ACB
+17	CBA
+16	BCA
+19	CAB	

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iaK9+XiZOM43/M8IRKS4yfOOKFU33aKtgc4s4pYD+As0vsOkNzSdA9MPginvYhuoH/RBCmjFkeRAJ/zJ0Tyqig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Latitude\\source\\repos\\KondorceBordaMykola\\KondorceBordaMykola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latitude\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

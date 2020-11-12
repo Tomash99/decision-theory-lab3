@@ -1,0 +1,13 @@
+C:\Users\Latitude\source\repos\KondorceBordaMykola\obj\Debug\netcoreapp3.1\KondorceBordaMykola.csprojAssemblyReference.cache
+C:\Users\Latitude\source\repos\KondorceBordaMykola\obj\Debug\netcoreapp3.1\KondorceBordaMykola.AssemblyInfoInputs.cache
+C:\Users\Latitude\source\repos\KondorceBordaMykola\obj\Debug\netcoreapp3.1\KondorceBordaMykola.AssemblyInfo.cs
+C:\Users\Latitude\source\repos\KondorceBordaMykola\obj\Debug\netcoreapp3.1\KondorceBordaMykola.csproj.CoreCompileInputs.cache
+C:\Users\Latitude\source\repos\KondorceBordaMykola\bin\Debug\netcoreapp3.1\KondorceBordaMykola.exe
+C:\Users\Latitude\source\repos\KondorceBordaMykola\bin\Debug\netcoreapp3.1\KondorceBordaMykola.deps.json
+C:\Users\Latitude\source\repos\KondorceBordaMykola\bin\Debug\netcoreapp3.1\KondorceBordaMykola.runtimeconfig.json
+C:\Users\Latitude\source\repos\KondorceBordaMykola\bin\Debug\netcoreapp3.1\KondorceBordaMykola.runtimeconfig.dev.json
+C:\Users\Latitude\source\repos\KondorceBordaMykola\bin\Debug\netcoreapp3.1\KondorceBordaMykola.dll
+C:\Users\Latitude\source\repos\KondorceBordaMykola\bin\Debug\netcoreapp3.1\KondorceBordaMykola.pdb
+C:\Users\Latitude\source\repos\KondorceBordaMykola\obj\Debug\netcoreapp3.1\KondorceBordaMykola.dll
+C:\Users\Latitude\source\repos\KondorceBordaMykola\obj\Debug\netcoreapp3.1\KondorceBordaMykola.pdb
+C:\Users\Latitude\source\repos\KondorceBordaMykola\obj\Debug\netcoreapp3.1\KondorceBordaMykola.genruntimeconfig.cache
